@@ -2,35 +2,21 @@
 
 A Ecommerce Website made with React.js Framework.
 
-
-## Demo
-
-
-
 ## Features
-
-- Easy to integrate with Backend
 - Fully Responsive
-
-
-## Screenshots
-
-![App Screenshot](https://i.ibb.co/fQ293tm/image.png)
-
-
 
 ## Run Locally
 
 Clone the project
 
 ```bash
-  git clone https://github.com/ssahibsingh/React_E-Commerce
+  git clone https://github.com/Shubhampar/touted-toad-5222.git
 ```
 
 Go to the project directory
 
 ```bash
-  cd React_E-Commerce
+  cd touted-toad-5222
 ```
 
 Install dependencies
@@ -44,9 +30,6 @@ Start the server
 ```bash
   npm start
 ```
-
-
-
 ## Tech Stack
 
 * [React](https://reactjs.org/)
@@ -58,10 +41,3 @@ Start the server
 
 Contributions are always welcome!
 Just raise an issue, we will discuss it.
-
-
-## Feedback
-
-
-
-
