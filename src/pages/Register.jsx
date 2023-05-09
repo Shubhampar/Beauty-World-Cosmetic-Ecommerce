@@ -35,13 +35,13 @@ const Register = () => {
       localStorage.setItem("users", JSON.stringify([...existingUsers, newUser]));
   
       setIsRegistered(true);
-      window.location.href = "./Login.jsx"
+      window.location.href = "./Login"
       
      
     };
   
     const handleSignInClick = () => {
-      window.location.href = "./Login.jsx"
+      window.location.href = "./Login"
     };
     return (
         <>

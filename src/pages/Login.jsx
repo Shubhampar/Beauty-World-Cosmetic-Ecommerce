@@ -34,7 +34,7 @@ const Login = () => {
   };
 
   const handleSignUpClick = () => {
-    window.location.href = "./Register.jsx";
+    window.location.href = "./Register";
   };
   return (
     <>

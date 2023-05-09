@@ -2,7 +2,6 @@
 
 A Ecommerce Website made with React.js Framework.
 
-
 ## Features
 - Fully Responsive
 
@@ -42,5 +41,3 @@ Start the server
 
 Contributions are always welcome!
 Just raise an issue, we will discuss it.
-
-
