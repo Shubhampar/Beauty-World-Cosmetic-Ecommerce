@@ -8,6 +8,9 @@ A Ecommerce Website made with React.js Framework.
 ##Deployed Link
 https://sage-dango-e4547b.netlify.app/
 
+![image](https://github.com/Shubhampar/touted-toad-5222/assets/119346050/f362ed6b-7a7e-4086-8197-45db639e20aa)
+
+
 ## About
 Individal project built within the span of 5 days
 ```
