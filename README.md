@@ -8,37 +8,15 @@ A Ecommerce Website made with React.js Framework.
 ##Deployed Link
 https://sage-dango-e4547b.netlify.app/
 
-## Run Locally
-
-Clone the project
-
-```bash
-  git clone https://github.com/Shubhampar/touted-toad-5222.git
-```
-
-Go to the project directory
-
-```bash
-  cd touted-toad-5222
-```
-
-Install dependencies
-
-```bash
-  npm install
-```
-
-Start the server
-
-```bash
-  npm start
+## About
+Individal project built within the span of 5 days
 ```
 ## Tech Stack
 
 * [React](https://reactjs.org/)
-* [Redux](https://redux.js.org/)
 * [Bootstrap](https://getbootstrap.com/)
 * [Fake Store API](https://fakestoreapi.com/)
+* Cyclic
 
 ## Contributing
 
