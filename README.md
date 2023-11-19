@@ -1,12 +1,10 @@
 # E-Commerce Website
 
-A Ecommerce Website made with React.js Framework.
+An e-commerce website made with React.js Framework.
 
 ## Features
 - Fully Responsive
 
-##Deployed Link
-https://sage-dango-e4547b.netlify.app/
 Navbar
 ![image](https://github.com/Shubhampar/touted-toad-5222/assets/119346050/f362ed6b-7a7e-4086-8197-45db639e20aa)
 body
