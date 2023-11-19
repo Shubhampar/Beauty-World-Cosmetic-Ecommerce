@@ -24,12 +24,12 @@ const Product = () => {
     const getProduct = async () => {
       setLoading(true);
       setLoading2(true);
-      const response = await fetch(`https://tricky-trunks-bull.cyclic.app/products/${id}`);
+      const response = await fetch(`https://zany-gray-bracelet.cyclic.app/products/${id}`);
       const data = await response.json();
       setProduct(data);
       setLoading(false);
       const response2 = await fetch(
-        `https://tricky-trunks-bull.cyclic.app/products/category/${data.category}`
+        `https://zany-gray-bracelet.cyclic.app/products/category/${data.category}`
       );
       const data2 = await response2.json();
       setSimilarProducts(data2);

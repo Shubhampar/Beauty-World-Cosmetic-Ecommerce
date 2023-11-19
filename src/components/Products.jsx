@@ -22,7 +22,7 @@ const Products = () => {
   useEffect(() => {
     const getProducts = async () => {
       setLoading(true);
-      const response = await fetch("https://tricky-trunks-bull.cyclic.app/products");
+      const response = await fetch("https://zany-gray-bracelet.cyclic.app/products");
       if (componentMounted) {
         setData(await response.clone().json());
         setFilter(await response.json());
